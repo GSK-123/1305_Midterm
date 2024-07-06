@@ -34,4 +34,4 @@ public class TwoSumSolver {
         int[] result3 = TwoSum(array3, target3);
         System.out.println("Output: [" + result3[0] + ", " + result3[1] + "]");
     }
-}
+} // time complexity of code is O(n)
