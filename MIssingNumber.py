@@ -26,4 +26,4 @@ x4 = 6
 print("Missing number:", find_missing_number(array4, x4))  # Expected output: 6
 
 
-# Above code has the Time Complexity of O(n^2)
+# Above code has the Time Complexity of O(n^2)k
